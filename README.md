@@ -1,4 +1,4 @@
-Ayush-0604-alt/Multi-Agent# Multi-Source Agentic Q&A Assistant with LangGraph
+# Multi-Source Agentic Q&A Assistant with LangGraph
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![LangGraph](https://img.shields.io/badge/Framework-LangGraph-orange.svg)](https://langchain-ai.github.io/langgraph/)
